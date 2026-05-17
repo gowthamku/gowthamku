@@ -24,8 +24,6 @@ Frontend Developer with experience working on enterprise banking applications us
 - HTML5
 - CSS3
 - Bootstrap
-- Angular Material
-- RxJS
 
 ## Backend & MERN
 - Node.js (Basics)
@@ -36,6 +34,7 @@ Frontend Developer with experience working on enterprise banking applications us
 ## Database
 - Oracle SQL
 - SQL
+- Mysql
 - DBMS
 
 ## Tools
