@@ -64,6 +64,29 @@ Worked on enterprise banking applications for Intellect Design Arena Ltd.
 ---
 
 # 🚀 Projects
+
+
+
+
+## 📄 ResumeCraft
+
+A feature-rich, high-performance online resume builder that helps users create professional resumes in real-time. Features live side-by-side previews, customizable layouts, and instant high-fidelity PDF downloads without needing any sign-up.
+
+### Features
+
+* **Multi-Step Form Builder**: Clean, step-by-step forms for Personal Info, Work Experience, Education, Skills, Projects, and Certifications.
+* **Live Interactive Preview**: Real-time side-by-side preview as you type.
+* **Modern Design Templates**: Switch instantly between **Modern**, **Classic**, and **Minimal** layouts.
+* **Color Customization**: Choose from 8 premium accent colors to match your professional brand.
+* **Instant PDF Export**: Generates and downloads clean, print-ready PDF files using `jsPDF` and `html2canvas`.
+* **Local Persistence**: Automatically saves your progress locally so you never lose your data.
+
+### Tech Stack
+
+Angular | TypeScript | SCSS | HTML | jsPDF | html2canvas
+
+📁 **GitHub Repository**: [https://github.com/gowthamku/Resume-Craft](https://github.com/gowthamku/Resume-Craft)  
+🌐 **Live URL**: [https://resume-craft-navy.vercel.app/](https://resume-craft-navy.vercel.app/)
 ## 📝 React CRUD App
 
 A simple and responsive CRUD application built using React.js. This project allows users to create, update, delete, and manage product information through a clean user interface with API integration.
@@ -135,25 +158,7 @@ React.js | Axios | OpenWeather API | CSS3 | Vite
 📂 GitHub Repository:
 https://github.com/gowthamku/react-weather-app
 
-## 📄 ResumeCraft
 
-A feature-rich, high-performance online resume builder that helps users create professional resumes in real-time. Features live side-by-side previews, customizable layouts, and instant high-fidelity PDF downloads without needing any sign-up.
-
-### Features
-
-* **Multi-Step Form Builder**: Clean, step-by-step forms for Personal Info, Work Experience, Education, Skills, Projects, and Certifications.
-* **Live Interactive Preview**: Real-time side-by-side preview as you type.
-* **Modern Design Templates**: Switch instantly between **Modern**, **Classic**, and **Minimal** layouts.
-* **Color Customization**: Choose from 8 premium accent colors to match your professional brand.
-* **Instant PDF Export**: Generates and downloads clean, print-ready PDF files using `jsPDF` and `html2canvas`.
-* **Local Persistence**: Automatically saves your progress locally so you never lose your data.
-
-### Tech Stack
-
-Angular | TypeScript | SCSS | HTML | jsPDF | html2canvas
-
-📁 **GitHub Repository**: [https://github.com/gowthamku/Resume-Craft](https://github.com/gowthamku/Resume-Craft)  
-🌐 **Live URL**: [https://resume-craft-navy.vercel.app/](https://resume-craft-navy.vercel.app/)
 
 ---
 
